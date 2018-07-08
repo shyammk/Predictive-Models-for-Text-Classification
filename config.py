@@ -1,4 +1,4 @@
-newsURLBase=<Place Your URL Here>
-newsURLIndexPage=
-monthHyperLinkSearchTerm=
-articleHyperLinkSearchTerm=
+newsURLBase=<PLACE YOUR URL HERE>
+newsURLIndexPage=<PLACE NAME OF WEB-PAGE HERE>
+monthHyperLinkSearchTerm=<PLACE YOUR SEARCH-TERM HERE>
+articleHyperLinkSearchTerm=<PLACE YOUR SEARCH-TERM HERE>
